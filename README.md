@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <h1 align="center">PORTFOLIO // G PRIYADHARSAN</h1>
+  <p align="center">
+    <strong>A high-performance, brutalist-inspired frontend architecture.</strong>
+    <br />
+    No fluff. Just clean code, raw aesthetics, and high impact.
+  </p>
+</div>
 
-## Getting Started
+---
 
-First, run the development server:
+## ⚡ The Architecture
 
+This isn't just a basic web page. It's a precisely engineered digital environment built to load instantly and scale infinitely. Combining the raw power of **Next.js** with highly optimized **Framer Motion** physics, this portfolio ensures that every scroll, hover, and interaction feels physical, responsive, and deeply deliberate.
+
+### 🛠 The Arsenal (Tech Stack)
+
+| Category       | Technology                                                                                                  |
+|----------------|-------------------------------------------------------------------------------------------------------------|
+| **Core**       | [Next.js](https://nextjs.org) (App Router), [React.js](https://react.dev/), [TypeScript](https://www.typescriptlang.org/) |
+| **Styling**    | [Tailwind CSS](https://tailwindcss.com), Custom CSS variables for hyper-responsive UX theming                    |
+| **Animation**  | [Framer Motion](https://www.framer.com/motion/) for fluid Entrance behaviors and Spatial transitions           |
+| **Icons**      | [React Icons](https://react-icons.github.io/react-icons/) (Feather)                                         |
+| **Data Flow**  | Clean, statically typed JSON data structures for instant static generation (SSG)                                       |
+| **Contact**    | Serverless Drop-in API Engine via [Web3Forms](https://web3forms.com/)                                              |
+
+---
+
+## 🔥 Core Features
+
+* **Brutalist Design Matrix**: Heavy monochromatic dark tones disrupted by electric, high-contrast accent variables.
+* **Component-Level Motion**: Every section enters the viewport with calculated physics—not just for show, but to direct user visual focus.
+* **Zero-Latency Contact Protocol**: Fully functional, zero-backend contact form state logic with immediate error handling and visual success feedback.
+* **Data-Agnostic Structure**: Modifying your career history requires zero styling updates—everything dynamically renders from strict TypeScript models.
+* **100% Type-Safe Engine**: Enforced strict `any`-free TypeScript throughout all functional components and hooks.
+* **Pre-Optimized**: Zero active ESLint errors. Pre-rendered layout structure built specifically to target perfect 100/100 Lighthouse scores.
+
+---
+
+## 🚀 Deployment Protocol
+
+Want to run this machine locally? 
+
+### 1. Clone & Install
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Priyadharsan-85/portfolio.git
+cd portfolio
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Ignite the Core
+```bash
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) to view your environment in the browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3. Production Build
+Ready to ship it to production?
+```bash
+npm run build
+npm start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🌐 Live System
 
-To learn more about Next.js, take a look at the following resources:
+Deploying this ecosystem is a 10-second, one-click process via platforms like **Vercel** or **Netlify**. Because it heavily utilizes the Next.js static asset optimizations, it will output a blazingly fast web client.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Connect your GitHub repository to Vercel.
+2. Accept the default `Next.js` build configurations.
+3. Inject the web. Deploy.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div align="center">
+  <br />
+  <p>Engineered & Designed by <strong>G Priyadharsan</strong></p>
+  <p><em>Stay Brutal.</em></p>
+</div>
