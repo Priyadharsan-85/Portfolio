@@ -7,7 +7,7 @@ export const projects = [
     githubLink: "https://github.com/Priyadharsan-85/Kairos",
   },
   {
-    title: "VaultIQ",
+    title: "NexaGuard",
     description: "An AI-powered personal finance guardian featuring real-time budget tracking, ML fraud detection, and live market data.",
     tech: ["React", "Node.js", "Python", "PostgreSQL", "Flask"],
     liveLink: "https://example.com/vaultiq",
